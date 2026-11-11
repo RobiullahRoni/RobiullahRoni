@@ -1,5 +1,45 @@
 # 💫 About Me:
 - 🎓 BSc in Computer Science & Engineering (CSE) Graduate.<br>- 💻 Interested in Software Development and IT Support.<br>- 📱 Currently learning Flutter & Dart for Mobile App Development.<br>- 🔥 Exploring Firebase, REST APIs and Backend Development.<br>- 🛠️ Skilled in Computer Hardware, Windows Troubleshooting & Networking.<br>- 🌱 Always learning new technologies and building projects.<br>- 🇧🇩 Based in Bangladesh.<br>- 🎯 My goal is to become a Professional Software Engineer.<br>
+</p>
+
+<img align="right" alt="Coding" width="350" src="https://raw.githubusercontent.com/rajput2107/rajput2107/master/Assets/Developer.gif">
+
+### 🎓 Education & Career
+
+- 🎓 BSc in Computer Science & Engineering (CSE).
+- 💻 RPL – IT Support Level 3.
+- 📱 Aspiring Flutter Developer.
+- 🛠️ Interested in IT Support & System Administration.
+- 🌐 Exploring Web & Mobile Application Development.
+
+### 💡 Currently Working On
+
+- 📱 Learning Flutter & Dart.
+- 🔥 Exploring Firebase Backend Services.
+- 🌐 Learning REST API Integration.
+- 🎨 Improving Mobile UI/UX Design.
+- 💻 Building practical development projects.
+
+### 🛠️ Technical Interests
+
+- Mobile Application Development
+- Software Engineering
+- IT Support & Troubleshooting
+- Computer Hardware & Networking
+- Database Management
+- Modern Web Technologies
+
+### 🎯 My Goals
+
+To become a skilled Software Engineer, develop useful applications, solve real-world problems, and continuously grow as a technology professional.
+
+### ⚡ Fun Fact
+
+I believe that every day is an opportunity to learn something new and build something meaningful!
+
+---
+
+<p align="center">
 
 
 # 💻 Tech Stack:
